@@ -1,0 +1,20 @@
+Script started on 2016年03月14日 (週一) 00時21分12秒
+]0;H34041149@2015cpp: ~H34041149@2015cpp:~$ whoami; pwd
+H34041149
+/home/H34041149
+]0;H34041149@2015cpp: ~H34041149@2015cpp:~$ git config -l
+user.name=ElaineSu
+user.email=su2952@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+]0;H34041149@2015cpp: ~H34041149@2015cpp:~$ i[Kgit cl[Konfig -l[2Pwhoami; pwd[1Prm -r lab1[1P[C[C[C[C[C[C[Cls[Kcd lab1git init[1Prm lab1ls[Kwhoamigit config -l-global user.email "su2952@gmaail.com"[A]0;H34041149@2015cpp: ~H34041149@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pname "ElaineSu"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd lab1[Kgit config --global user.name "ElaineSu"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd lab1[Kls[Kgit initls[Kgit config -l-global user.name "ElaineSu"l[K-global user.email "su2952@gmaail.com"[A]0;H34041149@2015cpp: ~H34041149@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pname "LuisHsu"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kls[Krm lab1ls[Krm lab1.script[1P.scriptscript lab1.scriptgit clone https://github.com/elainesu52/laab1.git[A]0;H34041149@2015cpp: ~H34041149@2015cpp:~$ [C[C[C[C[Config -l[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clone https://github.com/elainesu52/laab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;H34041149@2015cpp: ~H34041149@2015cpp:~$ exit
+
+Script done on 2016年03月14日 (週一) 00時29分39秒

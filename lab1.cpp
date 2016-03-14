@@ -17,7 +17,7 @@
      none
 
    compile (how to compile):
-     g++ -o lab1 lab1.cpp
+     g++ -o hw1 hw1.cpp
 
    pseudocode:
      with a given n, printing out the corresponding sequence of numbers
